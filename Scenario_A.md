@@ -14,8 +14,5 @@ Just a quick review, as outlined in our [Course-Policies](https://courses.codepa
 &nbsp;
 
 All the best,
+
 CodePath.org Team
-
-
-[1]: https://courses.codepath.org/snippets/ios_university/policies_remote_fall19#heading-attendance-and-coursework-submissions "Course Policies"
-[link text itself]: http://www.reddit.com
