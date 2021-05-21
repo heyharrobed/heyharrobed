@@ -18,5 +18,7 @@ Hello Ranchodas,
 <p>We are rooting for you and hopefully, we get to see you again soon!</p>
 &nbsp;
 
+
 All the best,
+
 CodePath.org Team
